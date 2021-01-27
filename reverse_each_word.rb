@@ -4,4 +4,5 @@
   string_to_array.collect { |element|
     element.reverse!}.join ("")
   end
+  reverse_each_word
   end
